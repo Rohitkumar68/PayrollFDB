@@ -22,7 +22,7 @@
                     <br />
                     <span>
                         <h4>
-                            <asp:Label runat="server" Text="Please Wait..." ID="lblPleaseWait"></asp:Label>
+                            <asp:Label runat="server" Text="Please Wait bro..." ID="lblPleaseWait"></asp:Label>
                     </span>
                     </h4>
                 </div>
